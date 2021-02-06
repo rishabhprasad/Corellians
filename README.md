@@ -4,7 +4,7 @@
 ***
 
 ## Project Background
-The IABC Regina branch would like to modernize their website, as it feels outdated and non-intuitive. We see an opportunity to rebuild their website from scratch in WordPress, starting simple adding functionality as required by the customer
+The IABC Regina branch would like to modernize their website, as it feels outdated and non-intuitive. We see an opportunity to rebuild their website from scratch in WordPress. This will be accomplished by identifying the requirements of the the IABC website as well as recognizing the concerns of the current website.
 
 ## Business Need / Opportunity
 In this process of redesign the project calls for improvement in both aspects of aesthetics and functionality. 
