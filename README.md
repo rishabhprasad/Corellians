@@ -12,6 +12,7 @@ Some key aspects of this change include:
 + The website must be easy to navigate for both desktop and mobile users while providing similar functionality and usability
 + The IABC board members have also identified that they would like to integrate functionality for payment processing internally if possible to make it easier for their customers
 + It is also essential for the implementation of this website to be easy to maintain but also have the ability to be incrementally improved upon as requirements change
++ Better link between the Regina chapter page and the International page so there is less duplicated information.  
 
 ## Customers
 ### North Star Customer
