@@ -1,3 +1,8 @@
+# Team Corellians - IABC Regina Website Redesign Project
+#### By Rishabh Prasad, Matthew Landry, Anupras Burokas
+
+***
+
 ## Project Background
 The IABC Regina branch would like to modernize their website, as it feels outdated and non-intuitive. We see an opportunity to rebuild their website from scratch in WordPress. This will be accomplished by identifying the requirements of the the IABC website as well as recognizing the concerns of the current website.
 
