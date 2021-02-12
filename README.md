@@ -16,9 +16,9 @@ Some key aspects of this change include:
 
 ## Customers
 ### North Star Customer
-Our North Star customers will be the people interested in the doings (membership, events, careers, etc.) of the IABC Regina branch. 
+Our North Star customers are the members or individuals who are looking to become members of IABC. These members are interested in the events and membership benefits such as the IABC Regina job board.
 ### Carryover Customers
-Our carry-over customers will be members of other IABC branches.
+Our carry-over customers are Companies using the IABC Regina Job Board, the IABC volunteers maintaining the website and potentially members of other IABC branches.
 
 ## Assumptions
 + Creating a website using Wordpress which is easy to navigate
