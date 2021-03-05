@@ -12,10 +12,11 @@ For this second Milestone, we will transfer our designs to lo-fi diagrams, note 
 We would like to reiterate that our North Star customers would be IABC members.
 
 ### Sitemaps
-We have 
+We have noted down the current sitemap, which is both quite lengthy (number of pages) and deep (number of subpages). We have came up with three different sitemap proposals, which can be found in the 'Sitemap & Lo-Fi Diagrams' folder.
 
 
 ### Lo-Fi Diagrams
+ 
 
 
 ## Customer Notes
