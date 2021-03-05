@@ -28,8 +28,6 @@ The Low Fidelity diagrams were designed in mind with the following topics in min
 + Metaphor & Signifier - The best example of this is displayed with the Hamburger Icon in the Mobile Low-Fidelity Diagram. When it is together, this signifies you are on the current page, whereas when you click on it, you can expand the burger to see its further "ingredients," which in this case is the navigation options to other pages
 + Visceral Cognition & Emotion - These Lo-Fi diagrams were created to strike the Visceral part of the viewers throughts when presented, to identify whether these designs reflected positive or negative emotions
 
-## Customer Notes
-
 ## Updates to Activity 1
 
 + User Stories on the User Story Map have been reformatted and updated. [Click here to view our User Story Map](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%202/Updated%20User%20Diagrams/Updated%20User%20Stories%20Map%20-%20Corellians.pdf)
