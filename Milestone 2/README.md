@@ -3,7 +3,9 @@
 
 ***
 
-## Activity 2 Background
+## Activity 2 
+
+### Background
 
 ### Customer
 
