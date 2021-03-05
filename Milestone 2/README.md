@@ -6,6 +6,7 @@
 ## Activity 2 
 
 ### Background
+For this second Milestone, we will transfer our designs to lo-fi diagrams, note down the current sitemap, perform a content asset inventory for the current website, and propose new sitemaps.
 
 ### Customer
 
