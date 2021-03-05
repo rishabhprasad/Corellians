@@ -21,6 +21,13 @@ We have noted down the current sitemap, which is both quite lengthy (number of p
 
 ### Lo-Fi Diagrams
 
+The Low Fidelity diagrams were designed in mind with the following topics in mind. They allowed us to designs to be intuitive and effective.
+
++ Logical Constraints & Natural Mapping - We mapped sections where the most important or latest information was placed on the top-left, or stretched across the top of the page and moved down. This allows the North American users, where the culture is to read from top to bottom and left to right, be able to read our pages effectively in a logical order
++ Affordances - We created modules and sections which were intuitive, such as job postings which could be clicked on to be expanded for more information
++ Metaphor & Signifier - The best example of this is displayed with the Hamburger Icon in the Mobile Low-Fidelity Diagram. When it is together, this signifies you are on the current page, whereas when you click on it, you can expand the burger to see its further "ingredients," which in this case is the navigation options to other pages
++ Visceral Cognition & Emotion - These Lo-Fi diagrams were created to strike the Visceral part of the viewers throughts when presented, to identify whether these designs reflected positive or negative emotions
+
 ## Customer Notes
 
 ## Updates to Activity 1
