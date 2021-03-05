@@ -3,16 +3,16 @@
 
 ***
 
-### Activity 2 Background
+## Activity 2 Background
 
 ### Customer
 
-## Sitemaps
+### Sitemaps
 
 
-## Lo-Fi Diagrams
+### Lo-Fi Diagrams
 
 
 ## Customer Notes
 
-### Updates to Activity 1
+## Updates to Activity 1
