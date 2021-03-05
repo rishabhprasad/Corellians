@@ -15,7 +15,7 @@ We would like to reiterate that our North Star customers are the IABC members.
 
 ### Sitemaps
 
-We have noted down the current sitemap, which is both quite lengthy (number of pages) and deep (number of subpages). We have came up with three different sitemap proposals, which can be found in the  [Sitemap & Lo-Fi Diagrams](https://github.com/rishabhprasad/Corellians/tree/main/Milestone%202/Sitemap%20%26%20Lo-Fi%20Diagrams) folder.
+We have noted down the sitemap of the current website, which is both quite complex and deep. Therefore, navigation is not currently intuitive. We have came up with three different sitemap proposals to fix these concerns, which can be found in the  [Sitemap & Lo-Fi Diagrams](https://github.com/rishabhprasad/Corellians/tree/main/Milestone%202/Sitemap%20%26%20Lo-Fi%20Diagrams) folder. Eacg Sitemap is accompanied by Lo-Fi diagrams which provide further insight its structure. Each proposal can be found in their individual directories.
 
 + [Click here to view the Sitemap of the current IABC Regina navigation](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%202/Sitemap%20%26%20Lo-Fi%20Diagrams/Current%20Website%20Sitemap.png)
 
