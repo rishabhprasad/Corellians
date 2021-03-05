@@ -3,24 +3,23 @@
 
 ***
 
-## Activity 2 
+## Activity 2
 
 ### Background
+
 For this second Milestone, we will create lo-fi diagrams, note down the current sitemap, perform a content asset inventory for the current website, and propose new sitemaps for the layout of the design.
 
 ### Customer
+
 We would like to reiterate that our North Star customers are the IABC members.
 
 ### Sitemaps
-We have noted down the current sitemap, which is both quite lengthy (number of pages) and deep (number of subpages). We have came up with three different sitemap proposals, which can be found in the 'Sitemap & Lo-Fi Diagrams' folder.
 
-+ [Click here to view the Current Sitemap of the IABC Regina navigation](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%202/Sitemap%20%26%20Lo-Fi%20Diagrams/Current%20Website%20Sitemap.png)
-+ Click here to view the New Sitemap
+We have noted down the current sitemap, which is both quite lengthy (number of pages) and deep (number of subpages). We have came up with three different sitemap proposals, which can be found in the  [Sitemap & Lo-Fi Diagrams](https://github.com/rishabhprasad/Corellians/tree/main/Milestone%202/Sitemap%20%26%20Lo-Fi%20Diagrams) folder.
 
++ [Click here to view the Sitemap of the current IABC Regina navigation](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%202/Sitemap%20%26%20Lo-Fi%20Diagrams/Current%20Website%20Sitemap.png)
 
 ### Lo-Fi Diagrams
- 
-
 
 ## Customer Notes
 
