@@ -22,5 +22,5 @@ We created and linked a set of Desktop and Mobile view Hi-Fi prototypes for the 
 
 ## Other Relevant Diagrams
 
-+ [Click here to view our User Story Map](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%203/User%20Diagrams/Empathy%20Map%20-%20Corellians.pdf)
++ [Click here to view our User Story Map](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%203/User%20Diagrams/User%20Stories%20Map%20-%20Corellians.pdf)
 + [Click here to view our Empathy Map](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%203/User%20Diagrams/Empathy%20Map%20-%20Corellians.pdf)
