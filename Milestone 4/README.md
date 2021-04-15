@@ -7,6 +7,7 @@
 
 ### Background
 
+For the fourth Milestone, our goal
 For the third Milestone, our goal was to bring the structure we created in the Lo-Fi Diagrams to life by adding colour, images, and real information. Our objective for this milestone was to take the structure discussed in previous customer interaction checkpoints and create Hi-Fidelity diagrams. These diagrams display a clear visual of what the website will look and feel like once it is completed.
 
 ### Customer
