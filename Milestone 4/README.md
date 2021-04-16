@@ -21,7 +21,12 @@ We would like to reiterate that our North Star customers are the IABC members.
 
 The website can be downloaded and explored by using the download link above. However, screenshots of the primary pages of the website are included in the `Website Screenshots` directory as well. [Click here to view the screenshots](https://github.com/rishabhprasad/Corellians/tree/main/Milestone%204/Website%20Screenshots)
 
-## Documentation
+
+## Project Report
+
+The design was a result of work over 4 activities consisting of several meetings with IABC Board members, prototypes and diagrams, as well as research all leading to narrow our solution down to our final design. [Click here to view our project reflection and the lessons we learned throughout the activities](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%204/Project%20Report%20-%20Corellians.pdf)
+
+## Knowledge Documentation
 
 To manage the knowledge of maintaining the website effectively we have documented the process for things which will be commonly updated or maintained by IABC Volunteers. This is intended for users with any level of WordPress experience and so that the volunteer is able to complete their tasks efficiently. [Click here to view our documentation](https://github.com/rishabhprasad/Corellians/tree/main/Milestone%204/Knowledge%20Documentation)
 
