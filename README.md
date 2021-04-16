@@ -45,3 +45,4 @@ Our carry-over customers are Companies using the IABC Regina Job Board, the IABC
 + Using Wordpress plugins that are free or within budget
 + The inability to integrate external software with Wordpress
 + Integrating old software with new WordPress features
++ Inability to interact with IABC Members directly
