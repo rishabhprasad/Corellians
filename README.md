@@ -3,6 +3,10 @@
 
 ***
 
+## Download Our WordPress Backup
+
+[Click here to download our Wordpress Website Backup](http://download.uregina.ca/DownloadAttachment/a31a6fa7db25bd539b1ad2d78e6d4d83/)
+
 ## Project Background
 
 The IABC Regina branch would like to modernize their website, as it feels outdated and non-intuitive. We see an opportunity to rebuild their website from scratch in WordPress. This will be accomplished by identifying the requirements of the IABC website as well as recognizing the concerns of the current website.
@@ -41,7 +45,3 @@ Our carry-over customers are Companies using the IABC Regina Job Board, the IABC
 + Using Wordpress plugins that are free or within budget
 + The inability to integrate external software with Wordpress
 + Integrating old software with new WordPress features
-
-## Milestone 1
-
-This first milestone will involve an affinity diagram, an empathy map, a user story map with future MVP’s, and summary notes from our customer check-in on February 8th.

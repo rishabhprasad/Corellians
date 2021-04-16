@@ -3,7 +3,7 @@
 
 ***
 
-## Download Our Website
+## Download Our WordPress Backup
 
 [Click here to download our Wordpress Website Backup](http://download.uregina.ca/DownloadAttachment/a31a6fa7db25bd539b1ad2d78e6d4d83/)
 
