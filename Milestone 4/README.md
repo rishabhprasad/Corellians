@@ -21,7 +21,12 @@ We would like to reiterate that our North Star customers are the IABC members.
 
 The website can be downloaded and explored by using the download link above. However, screenshots of the primary pages of the website are included in the `Website Screenshots` directory as well. [Click here to view the screenshots](https://github.com/rishabhprasad/Corellians/tree/main/Milestone%204/Website%20Screenshots)
 
-## Other Relevant Diagrams
+## Other Relevant Updates
 
-+ [Click here to view our User Story Map](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%204/User%20Diagrams/User%20Story%20Map%20-%20Corellians.pdf)
-+ [Click here to view our Empathy Map](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%204/User%20Diagrams/Empathy%20Map%20-%20Corellians.pdf)
+Throughout the Process of this Activity, we separated our work into two activities into two MVPs. The cards in the User Story Map are ordered by MVPs and each card is colour coordinated to indicate whether it is done, in progress, not started, or in testing. + [Click here to view our User Story Map](https://github.com/rishabhprasad/Corellians/blob/main/Milestone%204/User%20Diagrams/User%20Story%20Map%20-%20Corellians.pdf)
+
+1. MVP 1 - Creating Initial Structure
+1. MVP 2 - Implementing Addition Functionality
+
+
+
